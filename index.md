@@ -1,17 +1,17 @@
 ## Welcome to the project page for "Phonetic typology from cross-linguistic perspectives (PhonTyp)"
 ## 通言語的観点からみた音声類型論
   
-- Project duration: April 2021 - March 2024 
-- Project Leader: Seunghun J. Lee (International Christian University, University of Venda, IIT Guwahati) 
-- Project Leader: Daisuke Shinagawa (AA-ken) 
+- Project duration: **April 2021 - March 2024** 
+- Project Leader: **Seunghun J. Lee** (_International Christian University, University of Venda, IIT Guwahati_) 
+- Project Leader: **Daisuke Shinagawa** (_AA-ken_) 
 
 1. Topics by year
-  - Year 1: plosives
-  - Year 2: fricatives
-  - Year 3: nasals
+  - Year 1: **plosives**
+  - Year 2: **fricatives**
+  - Year 3: **nasals**
 
 2. Members (affiliation, language(s))
-
+  - **Yuko Abe** (_Lanzhou University, China_, Bende)
 
 
 
