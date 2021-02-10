@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the project page for "Phonetic typology from cross-linguistic perspectives (PhonTyp)"
+## 通言語的観点からみた音声類型論
+
+Project duration: April 2021 - March 2024 
+Project Leader: Seunghun J. Lee (International Christian University, University of Venda, IIT Guwahati) 
+Project Leader: Daisuke Shinagawa (AA-ken) 
+
 
 You can use the [editor on GitHub](https://github.com/ICULingLab/phontyp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
