@@ -1,9 +1,19 @@
 ## Welcome to the project page for "Phonetic typology from cross-linguistic perspectives (PhonTyp)"
 ## 通言語的観点からみた音声類型論
+  
+- Project duration: April 2021 - March 2024 
+- Project Leader: Seunghun J. Lee (International Christian University, University of Venda, IIT Guwahati) 
+- Project Leader: Daisuke Shinagawa (AA-ken) 
 
-Project duration: April 2021 - March 2024 
-Project Leader: Seunghun J. Lee (International Christian University, University of Venda, IIT Guwahati) 
-Project Leader: Daisuke Shinagawa (AA-ken) 
+1. Topics by year
+  - Year 1: plosives
+  - Year 2: fricatives
+  - Year 3: nasals
+
+2. Members (affiliation, language(s))
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/ICULingLab/phontyp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -38,5 +48,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ICULingLab/phontyp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
