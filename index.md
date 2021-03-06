@@ -9,9 +9,11 @@ URL: https://iculinglab.github.io/phontyp/
 
 1. Topics by year
   - Year 1: **Laryngeal contrast in plosives** 
-            [LINK to the wikipage](https://github.com/ICULingLab/phontyp/wiki/Year-1:-Laryngeal-contrast-in-plosives)
+            [LINK to the wikipage of Year 1](https://github.com/ICULingLab/phontyp/wiki/Year-1:-Laryngeal-contrast-in-plosives)
   - Year 2: **Place contrast in fricatives**
+            [LINK to the wikipage of Year 2](https://github.com/ICULingLab/phontyp/wiki/Year-2:-Place-contrast-in-fricatives)
   - Year 3: **Place and laryngeal contrasts in nasals**
+            [LINK to the wikipage of Year 3](https://github.com/ICULingLab/phontyp/wiki/Year-3:-Place-and-laryngeal-contrasts-in-nasals)
 
 2. Members (affiliation, language(s))
   - **Andries W. Coetzee** (_University of Michigan, the USA_, Afrikaans)
