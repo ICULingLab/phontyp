@@ -8,7 +8,8 @@ URL: https://iculinglab.github.io/phontyp/
 - Project Leader: **Daisuke Shinagawa** (_AA-ken_) 
 
 1. Topics by year
-  - Year 1: **Laryngeal contrast in plosives**
+  - Year 1: **Laryngeal contrast in plosives** 
+            LINK to the wikipage: https://github.com/ICULingLab/phontyp/wiki/Year-1:-Laryngeal-contrast-in-plosives
   - Year 2: **Place contrast in fricatives**
   - Year 3: **Place and laryngeal contrasts in nasals**
 
