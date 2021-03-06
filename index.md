@@ -6,26 +6,26 @@
 - Project Leader: **Daisuke Shinagawa** (_AA-ken_) 
 
 1. Topics by year
-  - Year 1: **plosives**
-  - Year 2: **fricatives**
-  - Year 3: **nasals**
+  - Year 1: **Laryngeal contrast in plosives**
+  - Year 2: **Place contrast in fricatives**
+  - Year 3: **Place and laryngeal contrasts in nasals**
 
 2. Members (affiliation, language(s))
-  - **Shigeto Kawahara** (_Keio University, Japan_, Japanese)
-  - **Keita Kurabe** (_AA-ken, Japan_, Tibeto-Burman)  
-  - **Hirosi Nakagawa** (_Tokyo University of Foreign Studies, Japan_, Khoesan)
-  - **Hayato Aoi** (_AA-ken, NINJAL, Japan_, Ryukyuan)
-  - **Yasuhiro Yamamoto** (_Tokyo University of Foreign Studies, Japan_, Papuan, Austronesian)
-  - **Naoki Ueda** (_Kyoto University, Japan_, Mongolian)
-  - **Shuichiro Nakao** (_Osaka University, Japan_, Arabic)
   - **Andries W. Coetzee** (_University of Michigan, the USA_, Afrikaans)
-  - **Marc Brunelle** (_University of Ottawa, Canada_, Vietnamese)
-  - **Priyankoo Sarmah** (_Indian Institute of Technology Guwahati, India_, Tibeto-Burman)
-  - **Cédric Patin** (_Université de Lille	UMR 8163 “Savoirs, Textes, Langage”, France_, Bantu)
-  - **Yuko Abe** (_Lanzhou University, China_, Bantu)
+  - **Cédric Patin** (_Université de Lille
+  - **Hayato Aoi** (_AA-ken, NINJAL, Japan_, Ryukyuan)
+  - **Hirosi Nakagawa** (_Tokyo University of Foreign Studies, Japan_, Khoesan)
   - **Hiroto Uchihara** (_Universidad Nacional Autónoma de México, Mexico_, Iroquian, Otomanguean)
   - **Jeremy Perkins** (_University of Aizu, Japan_, Tai-Kadai)
   - **Julián Villegas** (_University of Aizu, Japan_, Tibeto-Burman, Tai-Kadai)
+  - **Keita Kurabe** (_AA-ken, Japan_, Tibeto-Burman)  
+  - **Marc Brunelle** (_University of Ottawa, Canada_, Vietnamese)
+  - **Naoki Ueda** (_Kyoto University, Japan_, Mongolian)
+  - **Priyankoo Sarmah** (_Indian Institute of Technology Guwahati, India_, Tibeto-Burman)
+  - **Shuichiro Nakao** (_Osaka University, Japan_, Arabic)
+  - **Yasuhiro Yamamoto** (_Tokyo University of Foreign Studies, Japan_, Papuan, Austronesian)
+  - **Yuko Abe** (_Lanzhou University, China_, Bantu)
+  - **Shigeto Kawahara** (_Keio University, Japan_, Japanese)
 
 
 
