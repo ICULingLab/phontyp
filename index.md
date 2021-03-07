@@ -1,7 +1,7 @@
 ## Welcome to the project page for "Phonetic typology from cross-linguistic perspectives (PhonTyp)"
 ## 通言語的観点からみた音声類型論
 
-URL: https://iculinglab.github.io/phontyp/
+URL: [https://iculinglab.github.io/phontyp/]
   
 - Project duration: **April 2021 - March 2024** 
 - Project Leader: **Seunghun J. Lee** (_International Christian University, University of Venda, IIT Guwahati_) 
