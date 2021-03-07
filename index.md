@@ -15,9 +15,9 @@ URL: [https://iculinglab.github.io/phontyp/]
   - Year 3: **Place and laryngeal contrasts in nasals**
             [LINK to the wikipage of Year 3](https://github.com/ICULingLab/phontyp/wiki/Year-3:-Place-and-laryngeal-contrasts-in-nasals)
 
-2. Members (affiliation, language(s))
-  - **Andries W. Coetzee** (_University of Michigan, the USA_, Afrikaans)
-  - **Cédric Patin** (_Université de Lille
+2. Members (affiliation, language(s)) <15 members>
+  - **Andries W. Coetzee** (_University of Michigan, USA_, Afrikaans)
+  - **Cédric Patin** (_Université de Lille、France_, Shingazidya, French)
   - **Hayato Aoi** (_AA-ken, NINJAL, Japan_, Ryukyuan)
   - **Hirosi Nakagawa** (_Tokyo University of Foreign Studies, Japan_, Khoesan)
   - **Hiroto Uchihara** (_Universidad Nacional Autónoma de México, Mexico_, Iroquian, Otomanguean)
