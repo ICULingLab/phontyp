@@ -5,3 +5,4 @@ Sponsored by
 - Research Institute for Languages and Cultures of Asia and Africa (http://www.aa.tufs.ac.jp/en/projects/jrp/jrp269)
 - Linguistic Dynamics Science 3 (LingDy3)
  (多言語・多文化共生に向けた循環型の言語研究体制の構築)
+- ICU Linguistics 
