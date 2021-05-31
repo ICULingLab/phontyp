@@ -25,7 +25,7 @@ URL: [https://iculinglab.github.io/phontyp/]
   - **Julián Villegas** (_University of Aizu, Japan_, Tibeto-Burman, Tai-Kadai)
   - **Keita Kurabe** (_AA-ken, Japan_, Tibeto-Burman)  
   - **Marc Brunelle** (_University of Ottawa, Canada_, Vietnamese)
-  - **Naoki Ueda** (_Hokuyo University, Japan_, Mongolian)
+  - **Naoki Ueta** (_Hokuyo University, Japan_, Mongolian)
   - **Priyankoo Sarmah** (_Indian Institute of Technology Guwahati, India_, Tibeto-Burman)
   - **Shuichiro Nakao** (_Osaka University, Japan_, Arabic)
   - **Yasuhiro Yamamoto** (_Tokyo University of Foreign Studies, Japan_, Papuan, Austronesian)
