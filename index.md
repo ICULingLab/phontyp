@@ -9,7 +9,7 @@ URL: [https://iculinglab.github.io/phontyp/]
 
 1. Topics by year
   - Year 1: **Laryngeal contrast in plosives** 
-            [LINK to Year 1](https://github.com/ICULingLab/phontyp/year1.md)
+            [LINK to Year 1](https://github.com/ICULingLab/phontyp/blob/bdc2310285c1d475439e5398a81ebde2685c092f/year1.md)
   - Year 2: **Place contrast in fricatives**
             [LINK to the wikipage of Year 2](https://github.com/ICULingLab/phontyp/wiki/Year-2:-Place-contrast-in-fricatives)
   - Year 3: **Place and laryngeal contrasts in nasals**
