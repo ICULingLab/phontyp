@@ -17,8 +17,16 @@
   > - 11:30-2:30 pm (Sat) July 10 (India) 
 
 * Program: 
-  > Andries Coetzee   
-  > Hiroto Uchihara
+    >  Andries Coetzee  
+    >  Cédric Patin   
+    >  Daisuke Shinagawa  
+    >  Hiroto Uchihara  
+    >  Jeremy Perkins  
+    >  Julian Villegas  
+    >  Naoki Ueta  
+    >  Priyankoo Sarmah  
+    >  Seunghun J. Lee  
+    >  Yuko Abe  
 
 
 #### 2. **Meeting 2 (October 2021)**
