@@ -20,7 +20,8 @@
     >  Andries Coetzee  
     >  Cédric Patin   
     >  Daisuke Shinagawa  
-    >  Hiroto Uchihara  
+    >  Hiroto Uchihara    
+    >  Kyosuke Yamamoto   
     >  Jeremy Perkins  
     >  Julian Villegas  
     >  Naoki Ueta  
