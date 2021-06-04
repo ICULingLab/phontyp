@@ -28,7 +28,7 @@ URL: [https://iculinglab.github.io/phontyp/]
   - **Naoki Ueta** (_Hokuyo University, Japan_, Mongolian)
   - **Priyankoo Sarmah** (_Indian Institute of Technology Guwahati, India_, Tibeto-Burman)
   - **Shuichiro Nakao** (_Osaka University, Japan_, Arabic)
-  - **Yasuhiro Yamamoto** (_Tokyo University of Foreign Studies, Japan_, Papuan, Austronesian)
+  - **Kyosuke Yamamoto** (_Tokyo University of Foreign Studies, Japan_, Papuan, Austronesian)
   - **Yuko Abe** (_Lanzhou University, China_, Bantu)
   - **Shigeto Kawahara** (_Keio University, Japan_, Japanese)
 
