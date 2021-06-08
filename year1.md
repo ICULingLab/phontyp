@@ -8,27 +8,29 @@
 
 * Time (tentative): **9:30 - 11:30 am AND 3 - 6 pm (Sat) July 20 [JST]**
 
-  >  **9:30-11:30 (Sat) July 10 (JST)** is   
+  >  **Morning 9:30-11:30 (Sat) July 10 (JST)** is   
   > - 8:30-10:30 pm (Fri) July 9(USA, Canada)  
   > - 7:30-9:30 pm (Fri) July 9 (Mexico)
 
-  > **3-6 pm (Sat) July 10 (JST)** is   
+  > **Afternoon 3-6 pm (Sat) July 10 (JST)** is   
   > - 8-11 am (Sat) July 10  (France)  
   > - 11:30-2:30 pm (Sat) July 10 (India) 
 
-* Program: 
-    >  Andries Coetzee  
-    >  Cédric Patin   
-    >  Daisuke Shinagawa  
-    >  Hiroto Uchihara    
-    >  Kyosuke Yamamoto   
-    >  Jeremy Perkins  
-    >  Julian Villegas  
-    >  Naoki Ueta  
-    >  Priyankoo Sarmah  
-    >  Seunghun J. Lee  
-    >  Yuko Abe  
+* Program:
+    >  **Morning 9:30-12:00 (Sat) July 10 (JST)** 
+    > - Andries Coetzee
+    > - Hiroto Uchihara   
+    > - Jeremy Perkins   
+    > - Hayato Aoi   
 
+    >  **Afternoon 3-6 pm (Sat) July 10 (JST)** 
+    >  - Naoki Ueta   
+    >  - Shuichiro Nakao  
+    >  - Kyosuke Yamamoto   
+    >  - Naoki Ueta   
+    >  - Priyankoo Sarmah  
+    >  - Yuko Abe, Seunghun J. Lee, Cédric Patin & Daisuke Shinagawa   
+    >  - Julian Villegas & Seunghun J. Lee
 
 #### 2. **Meeting 2 (October 2021)**
 
