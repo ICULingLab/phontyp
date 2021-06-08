@@ -6,11 +6,11 @@
 
 * Location: Online (Zoom)
 
-* Time (tentative): **9:30 - 11:30 am AND 3 - 6 pm (Sat) July 20 [JST]**
+* Time (tentative): **9:30 am - 12 pm AND 3 - 6 pm (Sat) July 20 [JST]**
 
-  >  **Morning 9:30-11:30 (Sat) July 10 (JST)** is   
-  > - 8:30-10:30 pm (Fri) July 9(USA, Canada)  
-  > - 7:30-9:30 pm (Fri) July 9 (Mexico)
+  >  **Morning 9:30-12:00 (Sat) July 10 (JST)** is   
+  > - 8:30-11 pm (Fri) July 9(USA, Canada)  
+  > - 7:30-10 pm (Fri) July 9 (Mexico)
 
   > **Afternoon 3-6 pm (Sat) July 10 (JST)** is   
   > - 8-11 am (Sat) July 10  (France)  
